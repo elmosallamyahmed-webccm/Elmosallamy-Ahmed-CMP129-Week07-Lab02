@@ -5,7 +5,7 @@
 - Student name: Ahmed Elmosallamy
 - Week: 7
 - Lab: 2
-- Date:
+- Date: 10/21/2026
 
 ## AI Use
 
