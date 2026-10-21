@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class StudentTest {
-
     public static void main(String[] args) {
         // PART 1: Mutable Student
         // TODO: Create a MutableStudent object.
